@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "carO-driver",
+    "slug": "carO-driver",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "carO-driver"
+}
